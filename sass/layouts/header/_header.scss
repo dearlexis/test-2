@@ -1,0 +1,18 @@
+.container.header {
+  display: flex;
+  align-items: center;
+}
+
+.header {
+  border-bottom: solid #ececec 1px;
+}
+
+.site-nav {
+  display: flex;
+}
+
+.header__logo {
+  margin-right: 93px;
+  padding-top: 24px;
+  padding-bottom: 25px;
+}
